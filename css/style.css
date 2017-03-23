@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  color: #fff;
+  background-color: #161616;
+}
+.MyFont{
+  font-family: 'Quicksand', regular;
+}
+h1 {
+  margin-bottom: 1.375em;
+  font-weight: 100;
+  font-size: 5em;
+  text-transform: uppercase;
+}
+a{
+    text-decoration: none !important;
+}
